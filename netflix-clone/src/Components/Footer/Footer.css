@@ -9,7 +9,7 @@
     /* background-color: red; */
 }
 .footer_icons {
-    /* background-color: blue; */
+    background-color: blue;
     width: 12%;
     display: flex;
     justify-content: space-between;
@@ -44,3 +44,4 @@
     font-style: 12px;
     margin-bottom: 10px;
 }
+
