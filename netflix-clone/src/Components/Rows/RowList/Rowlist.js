@@ -5,8 +5,7 @@ import requests from "../../../Utils/requests"
 const Rowlist = () => {
   return (
     <>
-    <Row title="Netflix Originals"
-    fetchUrl={requests.fetchNetflixOriginals}
+    <Row title="Netflix Originals"fetchUrl={requests.fetchNetflixOriginals}
     isLargeRow={true}/>
     <Row title="Trending Now"fetchUrl={requests.fetchTrending}/> 
     <Row title="Top Rated Movies"fetchUrl={requests.fetchTopRatedMovies}/>

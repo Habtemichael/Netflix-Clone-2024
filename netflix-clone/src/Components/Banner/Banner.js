@@ -31,17 +31,16 @@ return (
     }}>
 
     <div className="banner_contents">
-    <h1 className="banner_title">
+    <h2 className="banner_title">
     {movie?.title || movie?.name || movie?.original_name}
-    </h1>
+    </h2>
     <div className="banner_buttons">,
     <button className="banner_button play">Play</button>,
     <button className="banner_button">My List</button>,
     </div>
     <h1 className="banner_description">{truncate(movie?.overview, 150 )}</h1>,
     </div>
-    <div className="banner_fadeButton"/>
-    
+    <div className="banner_fadeBottom"/>
     </div>
     )
     }
