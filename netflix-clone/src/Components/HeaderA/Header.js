@@ -14,9 +14,9 @@ function Header() {
             <div className="header_left">
                 <ul>
                     <li><img className='netflix-img' src={Netflix} alt="NetflixName"width={"100"} /></li>
-                    <li className='header_links'>Home</li>
-                    <li className='header_links'>TV Shows</li>
-                     <li className='header_links'>Latest</li>
+                    <li>Home</li>
+                    <li>TV Shows</li>
+                    <li>Latest</li>
                     <li className='header_end_link'>My List</li>
                     <li className='header_end'>Browse by Languages</li>
                 </ul>

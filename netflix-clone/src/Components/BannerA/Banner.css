@@ -9,7 +9,14 @@
     margin-left: 30px;
     padding-top: 30px;
     height: 190px
-    /* height: 190px; */ 
+ /* height: 190px;   */
+}
+
+.banner_title{
+    margin-top: 260px;
+    font-size: 2.3rem;
+    font-weight: 500;
+    padding-bottom: 0.3rem;
 }
 
 .banner_title{
@@ -24,8 +31,8 @@
     padding: 1rem 0;
     font-size: 1rem;
     min-width: 360px;
-    height: 80px;
-}
+    height: 80px; 
+} 
 
 .banner_button{
     cursor: pointer;
@@ -36,7 +43,7 @@
     font-weight: 700;
     border-radius: 0.1vw;
     padding: 0.5rem 2rem;
-}
+} 
 .play{
     color: hsl(0, 22%, 4%);
     background-color: none;
@@ -47,7 +54,7 @@
     color: #8d8585;
     background-color: #eb4e4e;
     transition: a110.2s;
-}
+} 
 .banner_fadeBottom{
     margin-top: 80px;
     height: 40vh;
@@ -58,4 +65,3 @@
         #111
     );
 }
-
