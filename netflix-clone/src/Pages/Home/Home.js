@@ -11,8 +11,6 @@ const Home = () => {
       <Banner/>
       <RowList/>
       <Footer/>
-  
-
     </div>
   )
 }
