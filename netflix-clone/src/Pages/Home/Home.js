@@ -1,8 +1,8 @@
 import React from 'react'
-import Header from '../../Components/Header/Header';
-import Banner from '../../Components/Banner/Banner';
-import Footer from '../../Components/Footer/Footer';
-import RowList from '../../Components/Rows/RowList/Rowlist';
+import Header from '../../Component/Header/Header';
+import Banner from '../../Component/Banner/Banner';
+import Footer from '../../Component/Footer/Footer';
+import RowList from '../../Component/Rows/RowList/Rowlist';
 
 const Home = () => {
   return (
