@@ -1,5 +1,6 @@
 .header_outer_container {
     font-family: 'Montserrat', sans-serif;
+    font-size: small;
     position: sticky;
     top: 0;
     display: flex;
@@ -11,12 +12,12 @@
     transition: all 0.5s;
     transition-timing-function: ease-in;
     z-index: 1;
-/* background-color: red; */
+    /* background-color: rgb(48, 47, 47);  */
 }
 .nav_black {
-    /* background-color: rgb(20, 20, 20); */
-    background-color: transparent;
+background-color: transparent;
 }
+
 .header_container{
 width: 90%;
 display: flex;

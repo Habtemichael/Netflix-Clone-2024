@@ -1,7 +1,6 @@
 import React from 'react'
 import "./Header.css"
-import Netflix from "../Asset/images/Netflix.png"
-// import NetflixName from "../Asset/images/NetflixName.png"
+import Netflix from "../Asset/images/Netflix.png";
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
 import PersonOutlineIcon from '@mui/icons-material/PersonOutline';

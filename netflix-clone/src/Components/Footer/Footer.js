@@ -9,9 +9,9 @@ const Footer = () => {
     <div className='footer_outer_container'>
       <div className='footer_inner_container'>
         <div className='footer_icons'>
-            <FacebookOutlinedIcon/>
+            <FacebookOutlinedIcon className='fb_icon'/>
           <InstagramIcon/>
-          <YouTubeIcon/>
+          <YouTubeIcon className='youtube_icon'/>
         </div>
         <div className='footer_data'>
           <div>
