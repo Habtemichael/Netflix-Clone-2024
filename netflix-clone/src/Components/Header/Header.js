@@ -14,12 +14,11 @@ function Header() {
             <div className="header_left">
                 <ul>
                     <li><img className='netflix-img' src={Netflix} alt="NetflixName"width={"100"} /></li>
-                    <li>Home</li>
-                    <li>TV Shows</li>
-                    <li>Movies</li>
-                    <li>Latest</li>
-                    <li>My List</li>
-                    <li>Browse by Languages</li>
+                    <li className='header_links'>Home</li>
+                    <li className='header_links'>TV Shows</li>
+                     <li className='header_links'>Latest</li>
+                    <li className='header_end_link'>My List</li>
+                    <li className='header_end'>Browse by Languages</li>
                 </ul>
             </div>
             <div className="headericons">
