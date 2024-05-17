@@ -9,7 +9,7 @@
     /* background-color: red; */
 }
 .footer_icons {
-    background-color: blue;
+    background-color: rgb(11, 11, 11);
     width: 12%;
     display: flex;
     justify-content: space-between;
@@ -43,5 +43,9 @@
 .copy-right {
     font-style: 12px;
     margin-bottom: 10px;
+}
+.fb_icon {
+    background-color: blue;
+
 }
 
